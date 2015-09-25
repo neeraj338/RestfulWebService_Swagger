@@ -1,0 +1,5 @@
+com\javapapers\webservices\rest\jersey\ProductResource.class
+com\javapapers\webservices\rest\jersey\ProductDao.class
+com\javapapers\webservices\rest\jersey\ProductService.class
+com\javapapers\webservices\rest\jersey\Product.class
+com\javapapers\webservices\rest\jersey\ProductsResource.class
